@@ -1,0 +1,34 @@
+COVID-19 Data Analysis using SQL
+
+Project Description:
+
+This project focuses on analyzing global COVID-19 data using SQL to extract meaningful insights related to infection rates, death rates, and vaccination trends.
+
+The dataset contains information on daily COVID-19 cases, deaths, population, and vaccinations across multiple countries. Using SQL Server, various queries were written to clean, transform, and analyze the data.
+
+Objectives:
+
+* Analyze total COVID-19 cases and deaths across countries
+* Compare infection rates with population
+* Track vaccination progress over time
+* Identify patterns and trends in the spread of COVID-19
+
+Techniques Used:
+
+* Joins to combine CovidDeaths and CovidVaccinations datasets
+* Window Functions (SUM OVER PARTITION BY) to calculate rolling vaccination counts
+* Aggregate functions for summarizing data
+* Views to store reusable query results
+
+Key Insights:
+
+* Infection rates vary significantly depending on population size
+* Death rates differ across countries due to healthcare and response measures
+* Vaccination rollout shows uneven progress across regions
+* Rolling vaccination metrics help understand trends over time
+
+Conclusion:
+This project demonstrates strong SQL skills including data querying, transformation, and analysis. It showcases the ability to work with real-world datasets and generate insights useful for decision-making.
+
+Author:
+Reivish Obed Alexander J
