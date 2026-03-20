@@ -1,0 +1,10 @@
+Key Insights from COVID-19 Data Analysis:
+
+1. Countries with smaller populations showed higher infection percentages.
+2. Death rates varied significantly depending on healthcare infrastructure.
+3. Vaccination rollout was uneven across continents.
+4. Rolling vaccination data helped track progress over time effectively.
+5. Some countries showed rapid vaccination growth after initial delays.
+
+Conclusion:
+Vaccination trends and infection rates highlight the importance of timely healthcare response and population density factors.
