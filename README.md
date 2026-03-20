@@ -1,30 +1,47 @@
 # COVID-19 Data Analysis using SQL
 
-## 📌 Overview
+## 📌 Project Overview
 
-This project analyzes COVID-19 data using SQL to understand infection rates, death rates, and vaccination progress.
+This project analyzes global COVID-19 data using SQL to uncover trends in infection rates, death rates, and vaccination progress.
 
-## 🛠 Tools
+## 🎯 Objectives
+
+* Analyze COVID-19 cases and deaths
+* Compare infection rates across countries
+* Track vaccination progress using rolling metrics
+
+## 🛠 Tools & Technologies
 
 * SQL Server
 * SSMS
 
-## 📊 Key Skills Demonstrated
+## 📊 Key Techniques Used
 
 * Joins
 * Window Functions
+* CTE
 * Views
-* Data Analysis
 
 ## 📁 Project Structure
 
-* data/ → dataset files
+* data/ → Raw datasets
 * sql/ → SQL queries
-* insights/ → findings
+* insights/ → Key findings
 
-## 🚀 Key Insight
+## 🔥 Key SQL Feature Used
 
-Vaccination rollout and infection rates vary significantly across countries.
+Rolling vaccination calculation using window function.
+
+## 📈 Key Insights
+
+* Significant variation in vaccination rates across countries
+* Infection rates are influenced by population size
+* Rolling metrics provide better trend understanding
+
+## 🚀 Future Improvements
+
+* Build Power BI dashboard
+* Automate data pipeline
 
 ## 👨‍💻 Author
 
